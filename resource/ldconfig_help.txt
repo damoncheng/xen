@@ -1,0 +1,1 @@
+in /etc/ld.so.conf  set /usr/local/lib
